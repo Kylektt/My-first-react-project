@@ -5,9 +5,9 @@ from 'react-router-dom';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import './App.css';
 import Home from './components/pages/Home';
-import Services from './components/pages/Services,js';
-import Products from './components/pages/Products';
-import SignUp from './components/pages/SignUp';
+import Services from './components/pages/Services.js';
+import Products from './components/pages/Products.js';
+import SignUp from './components/pages/SignUp.js';
 
 function App() {
   return (
